@@ -1,0 +1,7 @@
+pandas
+numpy
+flask
+werkzeug
+nltk
+google-cloud-vision
+
